@@ -61,25 +61,30 @@ To test out my solutions or run the final project locally on your machine, follo
 ```bash
 git clone [https://github.com/hasanyousuf044-code/CS50-Python-problem-set.git](https://github.com/hasanyousuf044-code/CS50P.git)
 ```
-*2. Navigate to the project directory:*
+*2. Navigate to the repository:*
 ```bash
-cd CS50P/project
+cd week 0
 ```
 *3. Install required dependencies:*
 (Note: Only required for specific weeks or the Final Project)
 ```bash
 pip install -r requirements.txt
 ```
-*4. Execute the program:*
+*4. Run any specific file:
+You can run any of the files individually using Python. For example:*
 ```bash
-python project.py
+python indoor.py
 ```
-*5. Run tests (Optional):*
+#OR
 ```bash
-pytest test_project.py
+python bank.py
 ```
 
+🤝 Connect with Me
 
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/hasanyousuf044-code/CS50P.git](https://github.com/hasanyousuf044-code/CS50P.git)
+​I am a passionate learner exploring the world of programming and AI. If you have any suggestions or feedback, feel free to reach out!
+
+​GitHub: hasanyousuf044-code
+
+​Keep coding, keep exploring! 🚀
+
