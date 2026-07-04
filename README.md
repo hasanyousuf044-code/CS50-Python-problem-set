@@ -48,7 +48,6 @@ Below is the detailed breakdown of the weekly problem sets completed in this cou
 ### 🛠️ Architecture
 As per CS50P guidelines, the project is structured as follows:
 - `project.py`: Contains the main function and at least three custom functions at the same indentation level.
-- `test_project.py`: Contains comprehensive unit tests for all custom functions using `pytest`.
 - `requirements.txt`: Lists all pip-installable libraries required for the project.
 
 ---
@@ -65,6 +64,10 @@ git clone [https://github.com/hasanyousuf044-code/CS50-Python-problem-set.git](h
 ```bash
 cd week 0
 ```
+# OR 
+```bash
+cd week (`write any number of week what are you want`)
+```
 *3. Install required dependencies:*
 (Note: Only required for specific weeks or the Final Project)
 ```bash
@@ -80,7 +83,7 @@ python indoor.py
 python bank.py
 ```
 
-🤝 Connect with Me
+## 🤝 Connect with Me
 
 ​I am a passionate learner exploring the world of programming and AI. If you have any suggestions or feedback, feel free to reach out!
 
