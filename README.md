@@ -85,7 +85,7 @@ python bank.py
 ---
 ## 🤝 Connect with Me
 
-​- I am a passionate learner exploring the world of programming and AI. If you have any suggestions or feedback, feel free to reach out!
+I am a passionate learner exploring the world of programming and AI. If you have any suggestions or feedback, feel free to reach out!
 - GitHub: hasanyousuf044-code
 
 ​`Keep coding, keep exploring! 🚀`
