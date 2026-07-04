@@ -65,7 +65,7 @@ git clone [https://github.com/hasanyousuf044-code/CS50-Python-problem-set.git](h
 ```bash
 cd week 0
 ```
-# OR 
+OR 
 ```bash
 cd week (`write any number of week what are you want`)
 ```
@@ -79,7 +79,7 @@ You can run any of the files individually using Python. For example:*
 ```bash
 python indoor.py
 ```
-#OR
+OR
 ```bash
 python bank.py
 ```
