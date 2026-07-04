@@ -58,7 +58,7 @@ To test out my solutions or run the final project locally on your machine, follo
 
 *1. Clone the repository:*
 ```bash
-git clone [https://github.com/hasanyousuf044-code/CS50-Python-problem-set.git](https://github.com/hasanyousuf044-code/CS50P.git)
+git clone [https://github.com/hasanyousuf044-code/CS50-Python-problem-set.git](https://github.com/hasanyousuf044-code/CS50-Python-problem-set.git)
 ```
 *2. Navigate to the repository:*
 ```bash
