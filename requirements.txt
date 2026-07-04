@@ -1,0 +1,8 @@
+emoji
+pyfiglet
+inflect
+requests
+pytest
+tabulate
+Pillow
+fpdf2
