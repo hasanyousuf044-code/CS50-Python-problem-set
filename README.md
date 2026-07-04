@@ -2,6 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python&logoColor=white)
 ![CS50](https://img.shields.io/badge/CS50-Harvard-red?style=for-the-badge)
+![edX](https://img.shields.io/badge/edX-Online-brightgreen?style=for-the-badge&logo=edx&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-pending-success?style=for-the-badge)
 
 Welcome to my repository for **CS50P: Introduction to Programming with Python**, offered by Harvard University. This repository contains all my problem set solutions and the final project submitted to fulfill the course requirements.
